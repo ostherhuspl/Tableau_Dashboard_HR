@@ -13,6 +13,9 @@ The dashboard includes:
 - **Turnover Rate by Department** – Pinpoint which areas have the highest turnover.
 - **Average Tenure & Age Profiles** – Understand workforce demographics and retention patterns.
 - **Attrition by Performance & Gender** – Spot retention risks across employee performance and gender.
+- 📸 Preview
+
+![Dashboard Preview](preview.png)
 
 ---
 
